@@ -1,4 +1,4 @@
-# node-module: 
+# node-module: (Tested with Node v18.14.2)
 ## CommonJS: 
 * Import a module: const lib = require('path-to-lib')
 ## Module: Using import for third party modules or built-in modules
